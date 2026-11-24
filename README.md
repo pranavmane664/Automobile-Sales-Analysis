@@ -1,9 +1,21 @@
-# Automobile Sales and Performance Analysis
+# 🚗 Automobile Sales and Performance Analysis
 
-## Project Overview
-This project analyzes automobile sales data using Python.
+## 🎓 Major Project – Data Analytics
 
-## Technologies Used
+### Project Overview
+This Major Project focuses on analyzing automobile sales data to understand brand performance, customer preferences, vehicle demand and regional sales trends.
+
+### Objectives
+- Identify the highest revenue-generating automobile brand.
+- Analyze popular fuel types.
+- Identify vehicle categories with maximum demand.
+- Compare regional sales performance.
+- Analyze monthly sales trends.
+- Study the relationship between vehicle prices and customer ratings.
+- Compare Petrol, Diesel and Electric vehicle sales.
+- Identify models with the highest average selling prices.
+
+### Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -11,29 +23,30 @@ This project analyzes automobile sales data using Python.
 - Seaborn
 - Jupyter Notebook
 
-## Business Questions
-1. Highest Revenue Brand
-2. Most Popular Fuel Type
-3. Maximum Demand Vehicle Type
-4. Highest Sales Region
-5. Monthly Sales Trends
-6. Price vs Customer Ratings
-7. Fuel Type Comparison
-8. Highest Average Selling Price Models
-
-## Visualizations
-- Line Plot
+### Data Visualization
+- Multiple Line Plots
 - Grouped Bar Chart
 - Pie Chart
 - Histogram
 - Scatter Plot
 - Box Plot
-- Twin Y-axis
+- Twin Y-axis Plot
 - Correlation Heatmap
-- Final Dashboard
+- Automobile Analytics Dashboard
 
-## How to Run
-Open the notebook using Jupyter Notebook and run all cells.
+### Key Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insights
+- Dashboard Development
 
-## Author
+### How to Run
+1. Install Anaconda.
+2. Open Jupyter Notebook.
+3. Open Automobile-Sales-Analysis.ipynb.
+4. Run all notebook cells.
+
+### Author
 BCA Graduate | Python | Data Analytics | AI/ML
